@@ -95,7 +95,7 @@ The dataset contains **1,014 records** with clinical features:
 
 ### 🩺 Prediction Page
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=Maternal+Risk+Prediction+App)
+![App Screenshot](App_UI.png?text=Maternal+Risk+Prediction+App)
 
 
 ## 📌 Future Improvements
