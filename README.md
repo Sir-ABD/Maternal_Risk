@@ -124,5 +124,3 @@ Contributions are welcome!
 
 * **Abdulrazaq Isah Dikko** – [GitHub](https://github.com/Sir-ABD)
 ✨ If you like this project, please **star ⭐ the repo** to support!
-
-`
