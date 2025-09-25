@@ -72,7 +72,7 @@ st.set_page_config(page_title="Maternal Risk Prediction", page_icon="👩‍⚕�
 st.title("👩‍⚕️ Maternal Health Risk Prediction")
 st.markdown("Enter patient details below to predict maternal health risk using **{}** (Accuracy: {:.2f}%)".format(
     best_model_name, best_acc * 100))
-st.write("Note that the model below is build using a speci")
+st.write("Note that the model below is build using a dataset collected from kaggle.")
 
 # Input fields
 col1, col2 = st.columns(2)
