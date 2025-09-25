@@ -123,4 +123,4 @@ Contributions are welcome!
 ## 👨‍💻 Author
 
 * **Abdulrazaq Isah Dikko** – [GitHub](https://github.com/Sir-ABD)
-✨ If you like this project, please **star ⭐ the repo** to support!
+#### ✨ If you like this project, please **star ⭐ the repo** to support!
